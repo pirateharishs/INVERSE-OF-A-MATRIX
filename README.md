@@ -1,5 +1,5 @@
-## NAME:HARISH S
-## REG NO:212223230071
+## NAME:  HARISH S
+## REG NO:  212223230071
 ## INVERSE-OF-A-MATRIX
 ## Aim:
 To write a python program to find the inverse of a matrix
